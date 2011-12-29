@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testSend" : "FrancoisStephany 12/29/2011 17:06",
+		"testHandleSuccessResponse" : "FrancoisStephany 12/15/2011 21:15",
+		"testDefaultValues" : "FrancoisStephany 12/15/2011 18:16",
+		"testHandle404Response" : "FrancoisStephany 12/15/2011 21:21",
+		"testHandle422Response" : "FrancoisStephany 12/15/2011 21:33",
+		"testAccessors" : "FrancoisStephany 12/15/2011 17:23"
+	},
+	"class" : { }
+}
