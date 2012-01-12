@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "FrancoisStephany 12/20/2011 15:39",
+	"super" : "JsonObject",
+	"category" : "PostMark-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PMEmail",
+	"type" : "normal"
+}

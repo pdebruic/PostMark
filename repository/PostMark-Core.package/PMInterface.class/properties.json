@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FrancoisStephany 1/11/2012 00:33",
+	"super" : "Object",
+	"category" : "PostMark-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"apiKey",
+		"apiUrl",
+		"debugStream"
+	],
+	"name" : "PMInterface",
+	"type" : "normal"
+}

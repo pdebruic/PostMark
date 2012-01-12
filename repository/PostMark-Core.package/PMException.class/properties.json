@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "FrancoisStephany 12/15/2011 19:01",
+	"super" : "Error",
+	"category" : "PostMark-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PMException",
+	"type" : "normal"
+}
