@@ -14,6 +14,6 @@ testHandle422Response
 	
 	[ interface handleResponse: response]
 		on: PMException
-		do: [:e | self assert: (e messageText includesSubString: 'Not allowed to send')]
+		do: [:e | self assert: (e messageText includesSubstring: 'Not allowed to send')]
 	
 	
