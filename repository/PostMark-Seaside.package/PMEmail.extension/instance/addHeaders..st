@@ -1,4 +1,8 @@
 *postmark-seaside
 addHeaders: someHeaders
 	someHeaders notNil
-		ifTrue: [ self headers: (Array with: someHeaders) ]
+		ifTrue: [ 
+			| headersToSend |
+			headersToSend := someHeaders copy.
+			someHeaders removeKey: 'Content-Type' ifAbsent: [  ].
+			self headers: (Array with: someHeaders) ]

@@ -1,13 +1,16 @@
 {
 	"instance" : {
-		"toArray:" : "PaulDeBruicker 10/24/2013 14:46",
-		"bccArray:" : "PaulDeBruicker 10/24/2013 14:45",
-		"addHeaders:" : "PaulDeBruicker 10/24/2013 14:51",
-		"ccArray:" : "PaulDeBruicker 10/24/2013 14:46",
+		"convertEmailAddressesToCommaString:" : "PaulDeBruicker 10/25/2013 11:46",
+		"addFrom:" : "PaulDeBruicker 10/25/2013 11:48",
+		"toArray:" : "PaulDeBruicker 10/25/2013 11:46",
+		"bccArray:" : "PaulDeBruicker 10/25/2013 11:46",
+		"setMessageContentFrom:" : "PaulDeBruicker 10/25/2013 11:55",
+		"addHeaders:" : "PaulDeBruicker 10/25/2013 13:06",
+		"ccArray:" : "PaulDeBruicker 10/25/2013 11:46",
 		"addTags:" : "PaulDeBruicker 10/24/2013 14:52"
 	},
 	"class" : {
-		"sendWAEmailMessage:withTags:" : "PaulDeBruicker 10/24/2013 14:50",
+		"sendWAEmailMessage:withTags:" : "PaulDeBruicker 10/25/2013 11:50",
 		"sendWAEmailMessage:" : "PaulDeBruicker 10/24/2013 13:41"
 	}
 }
