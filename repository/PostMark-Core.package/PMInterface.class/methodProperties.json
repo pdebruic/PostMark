@@ -10,10 +10,15 @@
 		"apiKey:" : "FrancoisStephany 12/15/2011 17:22",
 		"handleResponse:" : "FrancoisStephany 12/15/2011 18:54",
 		"send:" : "FrancoisStephany 12/26/2011 16:35",
-		"defaultApiKey" : "FrancoisStephany 12/15/2011 17:40",
+		"defaultApiKey" : "PaulDeBruicker 10/25/2013 06:35",
 		"apiUrl" : "FrancoisStephany 12/15/2011 17:39",
 		"simulateSendOf:" : "FrancoisStephany 12/20/2011 15:52",
 		"debugStream:" : "FrancoisStephany 12/15/2011 18:28"
 	},
-	"class" : { }
+	"class" : {
+		"inboundServerEmailAddress" : "PaulDeBruicker 10/25/2013 07:25",
+		"setInboundServerUrlTo:" : "PaulDeBruicker 10/25/2013 07:29",
+		"defaultApiKey" : "PaulDeBruicker 10/25/2013 07:41",
+		"getInboundServerDetails" : "PaulDeBruicker 10/25/2013 07:28"
+	}
 }
