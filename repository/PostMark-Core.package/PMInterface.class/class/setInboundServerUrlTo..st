@@ -9,7 +9,7 @@ setInboundServerUrlTo: aUrlorString
 		entity: entity;
 		headerAt: 'X-Postmark-Server-Token' put: self defaultApiKey;
 		accept: ZnMimeType applicationJson;
-		url: 'http://api.postmarkapp.com/server';
+		url: self defaultApiUrl , 'server';
 		post;
 		response.
 	response isSuccess

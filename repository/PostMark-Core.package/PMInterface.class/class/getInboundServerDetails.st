@@ -7,7 +7,7 @@ getInboundServerDetails
 		headerAt: 'X-Postmark-Server-Token' put: self defaultApiKey;
 		accept: ZnMimeType applicationJson;
 		contentType: ZnMimeType applicationJson;
-		get: 'http://api.postmarkapp.com/server';
+		get: self defaultApiUrl , 'server';
 		response.
 	response isSuccess
 		ifTrue: [ 

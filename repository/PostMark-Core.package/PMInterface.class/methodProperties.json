@@ -1,14 +1,14 @@
 {
 	"instance" : {
 		"handleError:" : "FrancoisStephany 12/15/2011 18:55",
-		"defaultApiUrl" : "FrancoisStephany 12/15/2011 18:42",
+		"defaultApiUrl" : "PaulDeBruicker 10/26/2013 07:57",
 		"apiKey" : "FrancoisStephany 12/15/2011 17:38",
 		"processIncorrectFields:" : "FrancoisStephany 12/15/2011 18:53",
 		"buildZnClientForContent:" : "PaulDeBruicker 10/23/2013 12:02",
 		"developmentMode" : "FrancoisStephany 12/15/2011 18:14",
 		"debugStream" : "FrancoisStephany 12/15/2011 18:14",
 		"apiKey:" : "FrancoisStephany 12/15/2011 17:22",
-		"handleResponse:" : "FrancoisStephany 12/15/2011 18:54",
+		"handleResponse:" : "PaulDeBruicker 10/25/2013 13:56",
 		"send:" : "FrancoisStephany 12/26/2011 16:35",
 		"defaultApiKey" : "PaulDeBruicker 10/25/2013 06:35",
 		"apiUrl" : "FrancoisStephany 12/15/2011 17:39",
@@ -16,9 +16,10 @@
 		"debugStream:" : "FrancoisStephany 12/15/2011 18:28"
 	},
 	"class" : {
-		"inboundServerEmailAddress" : "PaulDeBruicker 10/25/2013 07:25",
-		"setInboundServerUrlTo:" : "PaulDeBruicker 10/25/2013 07:29",
 		"defaultApiKey" : "PaulDeBruicker 10/25/2013 07:41",
-		"getInboundServerDetails" : "PaulDeBruicker 10/25/2013 07:28"
+		"defaultApiUrl" : "PaulDeBruicker 10/26/2013 08:03",
+		"getInboundServerDetails" : "PaulDeBruicker 10/26/2013 07:57",
+		"setInboundServerUrlTo:" : "PaulDeBruicker 10/26/2013 07:58",
+		"inboundServerEmailAddress" : "PaulDeBruicker 10/25/2013 07:25"
 	}
 }
