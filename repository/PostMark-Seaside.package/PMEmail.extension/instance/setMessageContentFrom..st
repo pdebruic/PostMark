@@ -9,7 +9,8 @@ setMessageContentFrom: aWAEmailMessage
 		addFrom: aWAEmailMessage from.
 	aWAEmailMessage isMultipart
 		ifTrue: [ 
-			self
-				textBody: aWAEmailMessage plainTextBodyString;
-				htmlBody: aWAEmailMessage htmlBodyString ]
+			aWAEmailMessage plainTextBodyString isEmptyOrNil
+				ifFalse: [ self textBody: aWAEmailMessage plainTextBodyString ].
+			aWAEmailMessage htmlBodyString isEmptyOrNil
+				ifFalse: [ self htmlBody: aWAEmailMessage htmlBodyString ] ]
 		ifFalse: [ self textBody: aWAEmailMessage body ]
