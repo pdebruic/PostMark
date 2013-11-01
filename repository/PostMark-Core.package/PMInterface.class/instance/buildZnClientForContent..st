@@ -5,5 +5,5 @@ buildZnClientForContent: aString
 	^ ZnClient new
 		headerAt: 'X-Postmark-Server-Token' put: self apiKey;
 		beOneShot;
-		url: self apiUrl;
+		url: self apiUrl , '/email';
 		entity: body
