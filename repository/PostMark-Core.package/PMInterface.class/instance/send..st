@@ -4,7 +4,7 @@ send: email
 	| client json |
 	self developmentMode
 		ifTrue: [ ^self simulateSendOf: email ].
-	json := GRPharoUtf8Codec new encode: (Json render: email).
+	json := (GRCodec forEncoding:'utf-8') encode: (Json render: email).
 	client := self buildZnClientForContent: json.
 	client post.
 	
