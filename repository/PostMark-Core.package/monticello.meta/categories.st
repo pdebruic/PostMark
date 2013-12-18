@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'PostMark-Core'!
+SystemOrganization addCategory: #'PostMark-Core'!
