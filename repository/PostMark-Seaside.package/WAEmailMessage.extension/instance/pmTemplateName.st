@@ -1,0 +1,3 @@
+*postmark-seaside
+pmTemplateName
+	^nil

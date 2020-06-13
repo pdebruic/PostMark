@@ -1,3 +1,7 @@
 *postmark-seaside
 sendViaPostMarkTagged: someTags
-	PMEmail sendWAEmailMessage: self withTags: someTags
+	| cls |
+	cls := self pmTemplateName isNil
+		ifTrue: [ PMEmail ]
+		ifFalse: [ PMTemplateEmail ].
+	cls sendWAEmailMessage: self withTags: someTags
