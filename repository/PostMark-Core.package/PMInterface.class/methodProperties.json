@@ -4,22 +4,22 @@
 		"defaultApiUrl" : "PaulDeBruicker 10/26/2013 07:57",
 		"apiKey" : "FrancoisStephany 12/15/2011 17:38",
 		"processIncorrectFields:" : "FrancoisStephany 12/15/2011 18:53",
-		"buildZnClientForContent:" : "PaulDeBruicker 11/1/2013 07:06",
+		"buildZnClientForContent:" : "PaulDeBruicker 6/13/2020 14:59",
 		"developmentMode" : "FrancoisStephany 12/15/2011 18:14",
-		"debugStream" : "FrancoisStephany 12/15/2011 18:14",
+		"buildZnClientForContent:when:" : "PaulDeBruicker 6/13/2020 15:02",
 		"apiKey:" : "FrancoisStephany 12/15/2011 17:22",
+		"debugStream" : "FrancoisStephany 12/15/2011 18:14",
 		"handleResponse:" : "PaulDeBruicker 10/25/2013 13:56",
-		"send:" : "PaulDeBruicker 11/13/2013 19:58",
+		"send:" : "PaulDeBruicker 6/13/2020 15:02",
 		"defaultApiKey" : "PaulDeBruicker 10/25/2013 06:35",
 		"apiUrl" : "FrancoisStephany 12/15/2011 17:39",
 		"simulateSendOf:" : "FrancoisStephany 12/20/2011 15:52",
 		"debugStream:" : "FrancoisStephany 12/15/2011 18:28"
 	},
 	"class" : {
-		"defaultApiKey" : "PaulDeBruicker 10/25/2013 07:41",
-		"defaultApiUrl" : "PaulDeBruicker 12/18/2013 10:12",
 		"getInboundServerDetails" : "PaulDeBruicker 10/26/2013 07:57",
+		"inboundServerEmailAddress" : "PaulDeBruicker 10/25/2013 07:25",
 		"setInboundServerUrlTo:" : "PaulDeBruicker 10/26/2013 07:58",
-		"inboundServerEmailAddress" : "PaulDeBruicker 10/25/2013 07:25"
+		"defaultApiUrl" : "PaulDeBruicker 5/25/2020 21:08"
 	}
 }

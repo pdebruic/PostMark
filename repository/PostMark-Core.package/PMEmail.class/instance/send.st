@@ -4,6 +4,7 @@ send
 
 	| success interface |
 	interface := PMInterface new.
+
 	success := interface send: self.
 	[ success ]
 		whileFalse: [ 

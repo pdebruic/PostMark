@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PMEmail",
+	"category" : "PostMark-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PMTemplateEmail",
+	"type" : "normal"
+}

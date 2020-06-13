@@ -1,10 +1,11 @@
 {
 	"instance" : {
+		"isTemplateEmail" : "PaulDeBruicker 6/13/2020 15:02",
 		"addAttachmentAndCompress:archiveName:" : "FrancoisStephany 1/12/2012 17:47",
-		"attachAndCompressFile:" : "FrancoisStephany 1/12/2012 18:28",
 		"addAttachment:content:contentType:" : "FrancoisStephany 1/12/2012 17:47",
-		"send" : "PaulDeBruicker 10/23/2013 13:11",
-		"attachFile:" : "FrancoisStephany 1/11/2012 00:30"
+		"attachAndCompressFile:" : "PaulDeBruicker 6/13/2020 08:12",
+		"send" : "PaulDeBruicker 5/26/2020 08:08",
+		"attachFile:" : "PaulDeBruicker 5/26/2020 07:53"
 	},
 	"class" : { }
 }
